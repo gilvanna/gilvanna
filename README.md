@@ -2,7 +2,7 @@
 ### Hi, my name is Gilvanna 👋
 
 - 🔭 I am a Senior Software Quality Analyst
-- 🌱 I am learning automated tests using cypress
+- 🌱 I am constantly learning to become a better and more technical QA. 
 - 📫 Contact me on my email: gilvanna@gmail.com
 - 😄 🏳️‍🌈 Pronouns: she/her.
 
